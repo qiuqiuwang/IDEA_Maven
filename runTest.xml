@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" parallel="methods" thread-count="2">
+  <test name="WEBtest">
+    <classes>
+      <class name="MavenEX.day1.TestNG">
+        <methods>
+          <include name="testData"/>
+          <exclude name="testData"/>
+        </methods>
+      </class> <!-- MavenEX.day3.Gridhub -->
+<!--      <class name="MavenEX.day2.ActionTest">-->
+
+<!--      </class>-->
+    </classes>
+  </test> <!-- WEBtest -->
+</suite> <!-- Default Suite -->

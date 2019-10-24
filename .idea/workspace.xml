@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d77244a8-919e-4b37-8381-d197826c83c5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QeNd19eacXnpLIALvIRNvxDFff" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/install/git/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WEBtest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WEBtest\src\test\java\MavenEX\day3" />
+      <recent name="E:\WEBtest\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DataDriverTest.login">
+    <configuration name="DataDriverTest.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WEBtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenEX.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenEX.day4" />
+      <option name="MAIN_CLASS_NAME" value="MavenEX.day4.DataDriverTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/WEBtest/runTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WEBtest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridTest.testChrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WEBtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenEX.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenEX.day3" />
+      <option name="MAIN_CLASS_NAME" value="MavenEX.day3.GridTest" />
+      <option name="METHOD_NAME" value="testChrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gridhub.testData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WEBtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenEX.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenEX.day3" />
+      <option name="MAIN_CLASS_NAME" value="MavenEX.day3.Gridhub" />
+      <option name="METHOD_NAME" value="testData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendEmailTest.sendEmail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WEBtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MavenEX.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MavenEX.day3" />
+      <option name="MAIN_CLASS_NAME" value="MavenEX.day3.SendEmailTest" />
+      <option name="METHOD_NAME" value="sendEmail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataDriverTest.login" />
+        <item itemvalue="TestNG.Gridhub.testData" />
+        <item itemvalue="TestNG.E:/WEBtest/runTest.xml" />
+        <item itemvalue="TestNG.GridTest.testChrome" />
+        <item itemvalue="TestNG.SendEmailTest.sendEmail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d77244a8-919e-4b37-8381-d197826c83c5" name="Default Changelist" comment="" />
+      <created>1568127185401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568127185401</updated>
+      <workItem from="1568127195193" duration="2847000" />
+      <workItem from="1568211727153" duration="26713000" />
+      <workItem from="1569637240456" duration="148000" />
+      <workItem from="1569638821048" duration="24106000" />
+      <workItem from="1570028220154" duration="14797000" />
+      <workItem from="1570538315058" duration="6535000" />
+      <workItem from="1570936366837" duration="7063000" />
+      <workItem from="1571319100652" duration="3655000" />
+      <workItem from="1571547078202" duration="9000" />
+      <workItem from="1571547588183" duration="467000" />
+      <workItem from="1571750366211" duration="3420000" />
+      <workItem from="1571921545214" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
